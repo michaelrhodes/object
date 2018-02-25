@@ -14,6 +14,8 @@ var extend = require('object/extend')
 var mutate = require('object/mutate')
 var omit = require('object/omit')
 var pick = require('object/pick')
+var get = require('object/get')
+var set = require('object/set')
 
 var each = require('object/each')
 var kmap = require('object/kmap')
