@@ -4,7 +4,7 @@ an object utility bikeshed
 
 ## install
 ```sh
-pnpm install michaelrhodes/object#1.1.0
+pnpm install michaelrhodes/object#1.2.0
 ```
 
 ## use
