@@ -2,9 +2,12 @@
 
 an object utility bikeshed
 
+[![Build status](https://travis-ci.org/michaelrhodes/object.svg?branch=master)](https://travis-ci.org/michaelrhodes/object)
+
+
 ## install
 ```sh
-pnpm install michaelrhodes/object#1.2.0
+pnpm install michaelrhodes/object#1.3.0
 ```
 
 ## use
@@ -16,6 +19,7 @@ var omit = require('object/omit')
 var pick = require('object/pick')
 var get = require('object/get')
 var set = require('object/set')
+var expand = require('object/expand')
 
 var each = require('object/each')
 var kmap = require('object/kmap')
