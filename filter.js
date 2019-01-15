@@ -1,11 +1,11 @@
-module.exports = vfilter
+module.exports = filter
 
-function vfilter (o, fn) {
+function filter (o, fn) {
   var oo = {}
   var k = Object.keys(o)
   var i = 0, l = k.length
   for (; i < l; i++)
-    if (fn(o[k[i]], k[i]))
+    if (fn(k[i], o[k[i]]))
       oo[k[i]] = o[k[i]]
   return oo
 }

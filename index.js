@@ -9,8 +9,7 @@ module.exports = {
   expand: require('./expand'),
 
   each: require('./each'),
+  filter: require('./filter'),
   kmap: require('./kmap'),
-  vmap: require('./vmap'),
-  kfilter: require('./kfilter'),
-  vfilter: require('./vfilter')
+  vmap: require('./vmap')
 }

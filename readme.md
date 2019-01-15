@@ -22,10 +22,9 @@ var set = require('object/set')
 var expand = require('object/expand')
 
 var each = require('object/each')
+var filter = require('object/filter')
 var kmap = require('object/kmap')
 var vmap = require('object/vmap')
-var kfilter = require('object/kfilter')
-var vfilter = require('object/vfilter')
 ```
 
 ## obey
