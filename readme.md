@@ -7,7 +7,7 @@ an object utility bikeshed
 
 ## install
 ```sh
-npm install michaelrhodes/object#1.3.1
+npm install michaelrhodes/object#2.0.0
 ```
 
 ## use
@@ -25,6 +25,7 @@ var each = require('object/each')
 var filter = require('object/filter')
 var kmap = require('object/kmap')
 var vmap = require('object/vmap')
+var id = require('object/id')
 ```
 
 ## obey
