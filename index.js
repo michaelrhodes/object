@@ -8,6 +8,7 @@ module.exports = {
   id: require('./id'),
   kmap: require('./kmap'),
   mutate: require('./mutate'),
+  nulled: require('./nulled'),
   omit: require('./omit'),
   pick: require('./pick'),
   set: require('./set'),

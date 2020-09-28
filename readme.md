@@ -15,6 +15,7 @@ npm install michaelrhodes/object#2.0.0
 var clone = require('object/clone')
 var extend = require('object/extend')
 var mutate = require('object/mutate')
+var nulled = require('object/nulled')
 var omit = require('object/omit')
 var pick = require('object/pick')
 var get = require('object/get')
