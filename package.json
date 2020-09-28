@@ -1,6 +1,6 @@
 {
   "name": "object",
-  "version": "2.0.0",
+  "version": "2.1.0",
   "license": "CC0-1.0",
   "scripts": {
     "test": "for test in test/*.js; do node $test; done"

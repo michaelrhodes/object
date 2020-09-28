@@ -7,7 +7,7 @@ an object utility bikeshed
 
 ## install
 ```sh
-npm install michaelrhodes/object#2.0.0
+npm install michaelrhodes/object#2.1.0
 ```
 
 ## use
